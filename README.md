@@ -1,4 +1,4 @@
-# React U.S. Weather Report
+# React blog-like App
 
 ## Requirements
 
